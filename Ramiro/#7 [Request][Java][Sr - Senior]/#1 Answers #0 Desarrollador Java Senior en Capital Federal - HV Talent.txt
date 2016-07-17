@@ -1,0 +1,5 @@
+Se requiere contar con experiencia en el desarrollo y mantenimiento de aplicaciones Java y Java EE (Back y Front End). Del mismo modo, haber participado en un ciclo completo de desarrollo desde su inicio hasta su entrega. Reportará directamente al Tech Manager.
+
+Tecnologías: Java EE (JSP, Servlets, EJB, Persistencia), frameworks (Struts/Spring) y Javascript. Patrones de diseño, metodologías ágiles (Scrum), Maven y Tomcat.
+
+Inglés: Se requiere un nivel avanzado (oral y escrito).
